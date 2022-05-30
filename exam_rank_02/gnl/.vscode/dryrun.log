@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/jokang/42_exam/exam_rank_02/gnl'
+make: Leaving directory `/Users/jokang/42_exam/exam_rank_02/gnl'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+

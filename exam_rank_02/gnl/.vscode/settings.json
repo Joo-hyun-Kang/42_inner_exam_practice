@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "arraylist.c": "c",
+        "push_swap.h": "c",
+        "vector": "c",
+        "xstring": "c",
+        "xlocale": "c",
+        "__split_buffer": "c",
+        "array": "c",
+        "string_view": "c",
+        "__bit_reference": "c",
+        "__hash_table": "c",
+        "initializer_list": "c",
+        "ios": "c",
+        "iterator": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "algorithm": "c",
+        "libft.h": "c",
+        "unistd.h": "c",
+        "__config": "c",
+        "so_long.h": "c",
+        "__node_handle": "c"
+    }
+}
